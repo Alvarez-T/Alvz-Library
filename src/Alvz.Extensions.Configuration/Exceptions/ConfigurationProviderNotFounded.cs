@@ -1,4 +1,4 @@
-﻿namespace AtoZ.Extensions.Configuration.Exceptions;
+﻿namespace Alvz.Extensions.Configuration.Exceptions;
 
 internal class ConfigurationProviderNotFounded : Exception
 {

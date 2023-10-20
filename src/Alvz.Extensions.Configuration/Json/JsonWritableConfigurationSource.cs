@@ -1,7 +1,7 @@
 ﻿using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.Configuration.Json;
 
-namespace AtoZ.Extensions.Configuration.Json;
+namespace Alvz.Extensions.Configuration.Json;
 
 public class JsonWritableConfigurationSource<T> : JsonConfigurationSource
     where T : class

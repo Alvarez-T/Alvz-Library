@@ -1,7 +1,7 @@
 ﻿using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.Configuration.Ini;
 
-namespace AtoZ.Extensions.Configuration.Ini;
+namespace Alvz.Extensions.Configuration.Ini;
 
 public class IniWritableConfigurationSource<T> : IniConfigurationSource
     where T : class

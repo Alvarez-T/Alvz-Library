@@ -1,11 +1,11 @@
-﻿using AtoZ.Extensions.Configuration.Exceptions;
-using AtoZ.Extensions.Configuration.Ini;
-using AtoZ.Extensions.Configuration.Json;
+﻿using Alvz.Extensions.Configuration.Exceptions;
+using Alvz.Extensions.Configuration.Ini;
+using Alvz.Extensions.Configuration.Json;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Options;
 
-namespace AtoZ.Extensions.Configuration;
+namespace Alvz.Extensions.Configuration;
 
 public static class WritableConfigurationExtensions
 {

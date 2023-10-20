@@ -1,7 +1,7 @@
 ﻿using Microsoft.Extensions.Configuration.Json;
 using System.Text.Json;
 
-namespace AtoZ.Extensions.Configuration.Json
+namespace Alvz.Extensions.Configuration.Json
 {
     public class JsonWritableConfigurationProvider<T> : JsonConfigurationProvider, IWritableConfigurationProvider<T>
         where T : class

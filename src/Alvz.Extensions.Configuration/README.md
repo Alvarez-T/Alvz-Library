@@ -1,5 +1,5 @@
 
-# A - Z Extensions Configuration
+# AlvZ Extensions Configuration
 
 This library has some extensions targeting the [_Microsoft.Extensions.Configuration_](https://www.nuget.org/packages/Microsoft.Extensions.Configuration/) which is used with one or more [configuration providers](https://learn.microsoft.com/en-us/dotnet/core/extensions/configuration#configuration-providers). It's commonly used for DI and Host configuration with the [_Microsoft.Extensions.Options_](https://www.nuget.org/packages/Microsoft.Extensions.Options/) library. 
 

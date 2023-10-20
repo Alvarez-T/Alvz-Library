@@ -1,7 +1,7 @@
 ﻿using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.Options;
 
-namespace AtoZ.Extensions.Configuration;
+namespace Alvz.Extensions.Configuration;
 
 internal class WritableOptions<T> : IWritableOptions<T> where T : class
 {

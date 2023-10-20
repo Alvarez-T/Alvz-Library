@@ -1,6 +1,6 @@
 ﻿using Microsoft.Extensions.Options;
 
-namespace AtoZ.Extensions.Configuration;
+namespace Alvz.Extensions.Configuration;
 
 public interface IWritableOptions<T> : IOptionsSnapshot<T> where T : class
 {

@@ -1,6 +1,6 @@
 ﻿using Microsoft.Extensions.Configuration.Ini;
 
-namespace AtoZ.Extensions.Configuration.Ini
+namespace Alvz.Extensions.Configuration.Ini
 {
 
     public class IniWritableConfigurationProvider<T> : IniConfigurationProvider, IWritableConfigurationProvider<T>
