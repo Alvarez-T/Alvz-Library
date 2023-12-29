@@ -10,7 +10,9 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Alvz.Extensions.Configuration", "Alvz.Extensions.Configuration\Alvz.Extensions.Configuration.csproj", "{FB0AAA4D-90CA-41AB-95EC-600787753F7D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Alvz.MediatR.Extensions", "Alvz.MediatR.Extensions\Alvz.MediatR.Extensions.csproj", "{FB951E82-640E-4CE1-B7A3-077052F5CCE8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Alvz.MediatR.Extensions", "Alvz.MediatR.Extensions\Alvz.MediatR.Extensions.csproj", "{FB951E82-640E-4CE1-B7A3-077052F5CCE8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Alvz.Data.Extensions", "Alvz.Data.Extensions\Alvz.Data.Extensions.csproj", "{EEAD5A3D-91E2-49CD-A7E3-CCAE1468241B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -26,6 +28,10 @@ Global
 		{FB951E82-640E-4CE1-B7A3-077052F5CCE8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FB951E82-640E-4CE1-B7A3-077052F5CCE8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FB951E82-640E-4CE1-B7A3-077052F5CCE8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EEAD5A3D-91E2-49CD-A7E3-CCAE1468241B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EEAD5A3D-91E2-49CD-A7E3-CCAE1468241B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EEAD5A3D-91E2-49CD-A7E3-CCAE1468241B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EEAD5A3D-91E2-49CD-A7E3-CCAE1468241B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
